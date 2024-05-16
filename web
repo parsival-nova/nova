@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Skibidi.toilet</title>
+    <style>
+        body {
+            background-color: purple;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Skibidi.toilet</h1>
+        </header>
+        <main>
+            <p>This is a simple website with purple, blue, and white colors.</p>
+            <p>Skibidi.toilet is your one-stop destination for all things related to toilets and bathroom accessories.</p>
+        </main>
+    </div>
+</body>
+</html>
